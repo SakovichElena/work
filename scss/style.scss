@@ -297,11 +297,11 @@ button:active {
     display: flex;
     gap: 30px;
     margin: 58px 0 108px;
-    // @media (max-width:1024px) {
-    //     img {
-    //     width: 320px;
-    //     }
-    // }
+    @media (max-width:1024px) {
+        img {
+        width: 320px;
+        }
+    }
 }
 .data__img {
     position: relative;
